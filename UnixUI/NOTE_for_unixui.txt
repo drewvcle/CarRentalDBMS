@@ -1,0 +1,1 @@
+Bash files for queries and views are not imported into GitHub. Please contact andrewvcle@icloud.com if it is required.
