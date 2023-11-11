@@ -1,0 +1,7 @@
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo "Views"
+echo " $IS_SELECTEDZ Z) Displays the annual statement for all customers."
+echo " $IS_SELECTEDX X) Displays customer's pickup and dropoff dates for their reservation."
+echo " $IS_SELECTEDC C) Displays the rented car per reservation."
+echo " $IS_SELECTEDV V) Displays reservations in 2023."
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
